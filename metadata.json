@@ -1,0 +1,6 @@
+{
+  "name": "Snacks Todo Tipo - Landing & Backend",
+  "description": "Distribuidora de Snacks con Landing Page de Ventas interactiva conectada a simulador de script PHP 8 y transacciones seguras MariaDB/MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
